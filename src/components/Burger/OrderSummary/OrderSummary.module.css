@@ -1,0 +1,18 @@
+.OrderSummaryButton {
+    background-color: #da4e35; /* was yellow */
+    outline: none;
+    cursor: pointer;
+    border: 1px solid #966909; /* was orange */
+    color: black; /* was orange */
+    font-family: inherit;
+    font-size: 1.2em;
+    padding: 15px 30px;
+    box-shadow: 2px 2px 2px #966909; /* was orange */
+    border-radius: 5%;
+}
+
+.OrderSummaryButton:hover{
+    background-color: #da4e35; /* was yellow */
+    border: 1px solid #966909; /* was orange */
+    color: #966909; /* was orange */
+}
