@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import Auxilary from '../../../hoc/Auxiliary/Auxilary';
 
-import Button from '../../UI/Button/Buttton';
+import Button from '../../UI/Button/Button';
 class OrderSummary extends Component{
     //this could be a functiona component, doesnt have to be a class becuase we have should component update lifecycle hook in modal and this componennt only updates when modal updates
     componentDidUpdate(){
